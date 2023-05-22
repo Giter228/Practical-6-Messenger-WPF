@@ -1,0 +1,90 @@
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe.config
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.lref
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).g.resources
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical_6_WPF__Messenger_.Properties.Resources.resources
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).exe
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\App.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CopyComplete
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe.config
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\App.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.lref
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\App.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.baml
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).g.resources
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical_6_WPF__Messenger_.Properties.Resources.resources
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CopyComplete
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).exe
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).pdb
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger) — копия\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.baml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.AssemblyReference.cache
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.SuggestedBindingRedirects.cache
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.g.cs
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.g.cs
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.g.cs
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\App.g.cs
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.cache
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger)_MarkupCompile.lref
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).exe
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).pdb
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe.config
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).exe
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Practical 6 WPF (Messenger).pdb
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.dll
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignColors.pdb
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\App.baml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.baml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\MainWindow.baml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\OwnerWindow.baml
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).g.resources
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical_6_WPF__Messenger_.Properties.Resources.resources
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.GenerateResource.cache
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CoreCompileInputs.cache
+D:\Downloads\Telegram Desktop\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\Practical 6 WPF (Messenger).csproj.CopyComplete
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.g.cs
+C:\Users\Максим\source\repos\Practical 6 WPF (Messenger)\Practical 6 WPF (Messenger)\obj\Debug\ClientWindow.baml
